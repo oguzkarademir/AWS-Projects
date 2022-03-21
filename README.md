@@ -8,6 +8,7 @@ List of projects within AWS workshop as follows;
 
 1. [Project-101-kittens-carousel-static-website-ec2](https://github.com/oguzkarademir/my-projects/tree/main/aws/Project-101-kittens-carousel-static-website-ec2)
 2. [Project-001-Roman-Numerals-Converter](https://github.com/oguzkarademir/AWS-Projects/tree/main/aws/Project-001-Roman-Numerals-Converter)
+3. [Project-006-kittens-carousel-static-web-s3-cf](https://github.com/oguzkarademir/AWS-Projects/tree/main/aws/Project-006-kittens-carousel-static-web-s3-cf)
 
 #### Linux Projects
 
